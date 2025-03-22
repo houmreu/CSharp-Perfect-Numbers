@@ -1,0 +1,7 @@
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\bin\Debug\Mersenne Prime.exe.config
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\bin\Debug\Mersenne Prime.exe
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\bin\Debug\Mersenne Prime.pdb
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\obj\Debug\Mersenne Prime.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\obj\Debug\Mersenne Prime.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\obj\Debug\Mersenne Prime.exe
+C:\Users\lukas\Desktop\Mersenne Prime\Mersenne Prime\obj\Debug\Mersenne Prime.pdb

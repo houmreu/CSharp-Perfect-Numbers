@@ -6,7 +6,7 @@ While C# provides an easy and readable implementation, it is not the most effici
 
 To analyze its performance, the program includes a **timer** (class Stopwatch) that measures the computation time for each tested exponent.
 
-## How It Works
+---
 
 ### Prime Number Check
 Before testing for Mersenne primes, the program verifies whether the exponent **p** is a prime number

@@ -1,6 +1,6 @@
 # Mersenne Prime & Perfect Number Finder
 
-This program searches for **Mersenne primes** and their corresponding **perfect numbers** using the **Lucas-Lehmer test**. The program first verifies if a given exponent is prime and if it is, it applies the Lucas-Lehmer test to determine whether the Mersenne number of the form **2^p - 1** is prime.
+This program searches for [Mersenne primes](https://en.wikipedia.org/wiki/Mersenne_prime) and their corresponding [Perfect numbers](https://en.wikipedia.org/wiki/Perfect_number) using the **Lucas-Lehmer test**. The program first verifies if a given exponent is prime and if it is, it applies the Lucas-Lehmer test to determine whether the Mersenne number of the form **2^p - 1** is prime.
 
 While C# provides an easy and readable implementation, it is not the most efficient for larger numbers, as low-level languages like C can perform these calculations significantly faster.
 

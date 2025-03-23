@@ -42,17 +42,18 @@ namespace MersennePrime
                     if (isMersennePrime)
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"2^{p}-1 with {digits} digits IS a Mersenne Prime Number! => The corresponding perfect number is 2^{p - 1} × (2^{p}-1) [{primeTestTime}m]");
+                        Console.WriteLine($"2^{p}-1 with {digits} digits IS a Mersenne Prime Number! => The corresponding perfect number is 2^{p - 1}×(2^{p}-1) [{primeTestTime}ms]");
                         Console.ForegroundColor = ConsoleColor.Red;
                     }
-                    else Console.WriteLine($"2^{p}-1 is NOT a Mersenne Prime [{primeTestTime}m]");
+                    else Console.WriteLine($"2^{p}-1 is NOT a Mersenne Prime [{primeTestTime}ms]");
                 }
                 else Console.WriteLine($"2^{p}-1 is not tested (p is not prime)");
 
                 p++;
             }
+            Console.ReadLine();
         }
-
+        
         static bool IsPrime(int num)
         {
             if (num == 2 || num == 3) return true;
